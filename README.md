@@ -1,2 +1,2 @@
-# NLP
-NLP based projects
+# Fake News Detection
+The prevalent issue of fake news in the current digital age necessitates the development of automated detection systems. This project involves constructing and assessing a text classifier tasked with identifying fake news. The dataset comprises over 10,000 annotated statements on contemporary issues, with varying degrees of truthfulness, from 'true' to 'pants on fire'. However, this task simplifies the classification to a binary decision: 'real' or 'fake'.
